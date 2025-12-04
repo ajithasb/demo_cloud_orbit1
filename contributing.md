@@ -1,4 +1,4 @@
 # contributing list
-# vihaan
-# anju
+# viha
+# abi
 
